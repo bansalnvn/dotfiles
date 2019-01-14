@@ -95,3 +95,5 @@ match OverLength /\%121v.\+/
 
 
 set rtp+=~/.fzf
+
+nnoremap <Leader>g :Ag <C-R><C-W><CR>
